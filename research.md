@@ -14,3 +14,4 @@
 
 * **[HIDELITE, DITTLELITE, DITTLELIGHT](tools/hidelite.md)**: (Un)hide processes on INCISION boxes.
 * **[CONSTANTMOVE](tools/constantmove.md)**: Unknown shell script that runs on STOICSURGEON implanted hosts.
+* **[COTTONAXE](tools/cottonaxe.md)**: A shell script that monitors the content of files on Unix servers. Features include: performing full copies on change, compressing the output, nulling the original file, scheduling commands (a bit like cron), ...
