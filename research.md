@@ -13,3 +13,4 @@
 ### EQGRP tools
 
 * **[HIDELITE, DITTLELITE, DITTLELIGHT](tools/hidelite.md)**: (Un)hide processes on INCISION boxes.
+* **[CONSTANTMOVE](tools/constantmove.md)**: Unknown shell script that runs on STOICSURGEON implanted hosts.
