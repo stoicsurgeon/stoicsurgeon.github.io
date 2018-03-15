@@ -3,6 +3,7 @@
 ### EQGRP implants
 
 * **[PORK](implants/pork.md)**: Implant/Backdoor for external facing services and inetd.
+* **[FUNNELOUT](implants/funnelout.md)**: Implant/Backdoor for vBulletin v3 and v4.
 
 ### EQGRP exploits
 
