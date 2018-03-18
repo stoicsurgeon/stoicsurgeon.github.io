@@ -2,7 +2,7 @@
  
 File system destroyer. It destroys the MFT on each partition and volume shadow copies with MFT copies.
 
-From the Snowden archive:
+From the [Snowden archive](https://snowdenarchive.cjfe.org/greenstone/collect/snowden1/index/assoc/HASH01b2/dc5bd489.dir/doc.pdf):
 
 ```
 (U//FOUO) PITIED FOOL
